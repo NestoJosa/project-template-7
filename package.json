@@ -1,7 +1,7 @@
 {
-	"name": "project-template-5",
+	"name": "project-template-7",
 	"version": "1.0.0",
-	"description": "// project-template-5",
+	"description": "// project-template-7",
 	"main": "gulpfile.babel.js",
 	"scripts": {
 		"dev": "gulp",
