@@ -8,7 +8,7 @@ Steps:
 
 1) Clone this repo into a server folder e.g. Mamps htdocs
 
-2) Remove the remote: 'git remote rm <remote-name>'
+2) Remove the remote: git remote remove origin
 
 3) Verify removed remote: 'git remote -v'
 
