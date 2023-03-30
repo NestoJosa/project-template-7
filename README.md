@@ -1,5 +1,7 @@
 # project-template-v-7
 
+TEST
+
 Note:
 
 - Boostrap 5 styles and scripts are loaded externally
